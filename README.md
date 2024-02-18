@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the code and resources for an HR Analytics Dashboard built using Power BI. The dashboard provides key insights into various HR metrics and visualizations to help understand employee attrition trends and other important aspects of workforce management.
+This repository contains the Power BI file and the source data for an HR Analytics Dashboard built using Power BI. The dashboard provides key insights into various HR metrics and visualizations to help understand employee attrition trends and other important aspects of workforce management.
 
 ## Key Insights
 
